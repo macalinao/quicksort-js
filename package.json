@@ -4,7 +4,7 @@
   "description": "Quicksort in JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "mocha -R spec"
+    "test": "./node_modules/.bin/mocha -R spec"
   },
   "repository": {
     "type": "git",

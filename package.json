@@ -1,0 +1,27 @@
+{
+  "name": "quicksort-js",
+  "version": "1.0.0",
+  "description": "Quicksort in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simplyianm/quicksort-js"
+  },
+  "keywords": [
+    "quicksort",
+    "sort"
+  ],
+  "author": "Ian Macalinao <me@ian.pw>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simplyianm/quicksort-js/issues"
+  },
+  "homepage": "https://github.com/simplyianm/quicksort-js",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  }
+}
